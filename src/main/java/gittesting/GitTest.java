@@ -7,6 +7,7 @@ public class GitTest {
         String digit="İlim ilim bilmektir.";
         String friends="İlim kendin bilmektir.";
         String encode="Sen kendini bilmezsin.";
+        String isToUnderstand="Bu nice okumaktır.";
 
         System.out.println(digit);
         System.out.println("Uygulama v-1.1 olarak yayınlandı!");
@@ -17,5 +18,7 @@ public class GitTest {
         //v-1.3 çalışmaları başladı...
         System.out.println(encode);
         System.out.println("Uygulama v-1.3 olarak güncellendi.Bir mısra eklendi.");
+        System.out.println(isToUnderstand);
+        System.out.println("Uygulama v-1.4 olarak güncellendi.Kıtanın son mısrası eklendi.");
     }
 }

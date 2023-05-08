@@ -20,5 +20,13 @@ public class GitTest {
         System.out.println("Uygulama v-1.3 olarak güncellendi.Bir mısra eklendi.");
         System.out.println(isToUnderstand);
         System.out.println("Uygulama v-1.4 olarak güncellendi.Kıtanın son mısrası eklendi.");
+        System.out.println("*******Kıta tamamlandı*****");
+        System.out.println(digit+"\n"+friends+"\n"+encode+"\n"+isToUnderstand);
+        System.out.println("************Yunus Emre************");
+        System.out.println("digit friends encode is to understand");
+        System.out.println("Uygulama v-1.5 olarak güncellendi ve Eser sahibi belirtildi." +
+                           "Uygulamayı inceleyen arkadaşlara not bırakıldı ve çalışma sonlandırıldı.");
+
     }
+
 }
